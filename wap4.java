@@ -1,3 +1,5 @@
+// WAP to accept principal amount , rat of interest no of years from user and calculate rat of interest.
+
 import java.util.Scanner;
 
 public class wap4 {
