@@ -1,3 +1,5 @@
+// WAP to accept a charachter from user and check it is vowal or not using switch case.
+
 import java.util.*;
 
 public class wap3 {
