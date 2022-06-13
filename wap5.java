@@ -1,3 +1,5 @@
+// WAP to accept radius from user and findd out the area of circle and circumstances of circle.
+
 import java.util.Scanner;
 
 public class wap5 {
