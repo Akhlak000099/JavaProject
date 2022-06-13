@@ -1,3 +1,5 @@
+// WAP a program to accept length and breath from user and calculate area of rectangle and perimeter of rectangle
+
 import java.util.Scanner;
 
 public class wap6 {
