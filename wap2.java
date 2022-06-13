@@ -1,3 +1,4 @@
+// WAP to accept a no from user if no is even than find out the cube.
 import java.util.*;
 public class wap2 {
     public static void main(String args[]){
