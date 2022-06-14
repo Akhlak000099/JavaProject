@@ -1,6 +1,6 @@
 public class nestedloop {
     public static void main(String args[]) {
-        int i,j,k;  
+        int i,j,k,n;  
         System.out.println("This is a pattern for using nested loop");
 
         for(i=1;i<=5;i++){
@@ -68,6 +68,21 @@ public class nestedloop {
                 System.out.print(" ");
             }
             for(j=1;j<=i;j++){
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+        
+        System.out.println("This is a pattern for using nested loop");
+
+        for(i=1;i<=5;i++){
+            for(k=4;k>=i;k--){
+                System.out.print(" ");
+            }
+            for(j=1;j<=i;j++){
+                System.out.print("* ");
+            }
+            for(n=1;n<=i;n++){
                 System.out.print("* ");
             }
             System.out.println();
