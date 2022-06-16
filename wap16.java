@@ -24,6 +24,7 @@ public class wap16 {
         ternory(num1,num2);
 
     }
+    // Arthmetic operator
     public static void arth(int x,int y) {
         System.out.println("The add of two value "+(x+y));
         System.out.println("The sub. of two value "+(x-y));
@@ -32,6 +33,7 @@ public class wap16 {
         System.out.println("The mod. of two value "+(x%y));
        
     }
+    // Assignment operator
     public static void assign(int x,int y) {
         System.out.println("The add assign of two value "+(x+=y));
         System.out.println("The sub. assign of two value "+(x-=y));
@@ -40,12 +42,14 @@ public class wap16 {
         System.out.println("The mod. assign of two value "+(x%=y));
        
     }
+    // bitwise operator
     public static void bitwise(int x,int y) {
         System.out.println("The AND bitwise operator "+(x&y));
         System.out.println("The OR bitwise operator "+(x|y));
         System.out.println("The XOR bitwise operator "+(x^y));
        
     }
+    // relational operator
     public static void rel(int x,int y) {
         System.out.println("The add relation of two value "+(x<y));
         System.out.println("The sub. relation of two value "+(x>y));
@@ -55,12 +59,15 @@ public class wap16 {
         System.out.println("The mod. relation of two value "+(x!=y));
        
     }
+    
+    // logical operator
     public static void logical(int x,int y) {
         System.out.println("The AND Logical operator "+(x>59&&y<40));
         System.out.println("The OR Logical operator "+(x>10||y>15));
         // System.out.println("The NOT Logical operator "+(x!y));
        
     }
+    // ternory operator
     public static void ternory(int x,int y) {
         System.out.println("The Ternory operator "+((x>y)?x:y));
        
