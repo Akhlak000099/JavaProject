@@ -1,5 +1,5 @@
 package program5;
-
+// WAP to create a class which will accept all the data and store all the variable , in one class do the add, second class SUB , third class MUL, forth classs DIV , fifth class MOD" (Herarchical inheritance)
 import java.util.Scanner;
 
 public class democlass {
