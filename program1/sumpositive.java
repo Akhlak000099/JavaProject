@@ -1,5 +1,5 @@
 package program1;
-
+// Q2)Write a program to accpet the positive numbers  from user and display the sum of that numbers using loop.
 import java.util.Scanner;
 
 public class sumpositive
