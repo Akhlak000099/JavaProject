@@ -1,5 +1,5 @@
 package program2;
-
+// WAP to accept no rows from the user and accordingly display the pyramid.
 import java.util.Scanner;
 public class pyramid {
 int k,i,j,num;
