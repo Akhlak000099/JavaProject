@@ -1,5 +1,5 @@
 package program4;
-
+// WAP to create a class for Fibonacci series, second class Palindrom No , Third class use both the class property and display the output (with using multilevel inheritance)
 public class mainclass extends palindrom {
 
 	public static void main(String[] args) {
