@@ -1,5 +1,5 @@
 package program3;
-// WAP to create a class which contain the method Palindrom .the second class will use the proerty of first class and display the output."
+// WAP to create a class which contain the method Palindrom .the second class will use the proerty of first class and display the output." (with using single inhertance)
 import java.util.Scanner;
 
 public class single{
