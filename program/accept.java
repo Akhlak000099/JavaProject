@@ -1,4 +1,5 @@
 package program;
+//Q1)"Write a Java program to print an array after changing the rows and columns of a given two-dimensional array.
 
 import java.util.Scanner;
 
