@@ -1,7 +1,7 @@
 package AccessUserDetalis;
 
 public class exceptionClass extends Exception{
-    exceptionClass(String msg){
-    	super(msg);
+    exceptionClass(String message){
+    	super(message);
     }
 }
